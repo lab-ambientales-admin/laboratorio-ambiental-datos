@@ -15,3 +15,7 @@ BIO-261023-1000,Fri Oct 23 2026 10:00:00 GMT-0300 (Argentina Standard Time),biol
 BIO-261023-1006,Fri Oct 23 2026 10:06:00 GMT-0300 (Argentina Standard Time),biologico 2,biologico,caba,temperatura_ambiente
 MUE-261026-1549,Mon Oct 26 2026 15:49:00 GMT-0300 (Argentina Standard Time),Aceite,aceites,Empresa X,heladera_2
 AGU-261026-1550,Mon Oct 26 2026 15:50:00 GMT-0300 (Argentina Standard Time),aGUA,agua,DDDD,freezer_1
+ace-261027-1143,Tue Oct 27 2026 11:43:00 GMT-0300 (Argentina Standard Time),aceite,aceite,empresa x,freezer_1
+sed-261027-1146,Tue Oct 27 2026 11:46:00 GMT-0300 (Argentina Standard Time),sediemnto,sedimento,munucipio,armario_3
+agu-261027-1154,Tue Oct 27 2026 11:54:00 GMT-0300 (Argentina Standard Time),agua 20,agua,empresa,heladera_2
+bio-261027-1208,Tue Oct 27 2026 12:08:00 GMT-0300 (Argentina Standard Time),bioogico 21,biologico,empresa,freezer_1
