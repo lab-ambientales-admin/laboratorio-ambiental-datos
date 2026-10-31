@@ -1,27 +1,28 @@
 id_muestra,fecha_ingreso,nombre_muestra,tipo_matriz,proyecto_solicitante,almacenamiento
-AMB-260927-1027,Sun Sep 27 2026 10:27:00 GMT-0300 (Argentina Standard Time),Suelo RN,suelo,Municipio,heladera_refrigerados
-AMB-260927-1046,Sun Sep 27 2026 10:46:00 GMT-0300 (Argentina Standard Time),Agua,agua,CABA,temperatura_ambiente
-AMB-260928-1050,Mon Sep 28 2026 10:50:00 GMT-0300 (Argentina Standard Time),Agua 2026,agua,Municipio,congelador
-AGU-260929-1110,Tue Sep 29 2026 11:10:00 GMT-0300 (Argentina Standard Time),SUELO RN,agua,CABA,heladera_refrigerados
-AMB-260929-1124,Tue Sep 29 2026 11:24:00 GMT-0300 (Argentina Standard Time),AGUA 2026,agua,UNIVERSIDAD,heladera_refrigerados
-AGU-260929-1125,Tue Sep 29 2026 11:25:00 GMT-0300 (Argentina Standard Time),agua,agua,mUNIO,heladera_refrigerados
-AIR-260929-1132,Tue Sep 29 2026 11:32:00 GMT-0300 (Argentina Standard Time),AIRE,aire,UNIVERSIDAD,temperatura_ambiente
-AIR-260929-1133,Tue Sep 29 2026 11:33:00 GMT-0300 (Argentina Standard Time),aire,aire,caba,temperatura_ambiente
-SUE-260929-1133,Tue Sep 29 2026 11:33:00 GMT-0300 (Argentina Standard Time),suelo rn,suelo,,heladera_refrigerados
-AGU-260929-1643,Tue Sep 29 2026 16:43:00 GMT-0300 (Argentina Standard Time),agua,agua,municipio,congelador
-AGU-260929-1643,Tue Sep 29 2026 16:43:00 GMT-0300 (Argentina Standard Time),AGUA,agua,MUNICIPIO,congelador
-SUE-261023-0928,Fri Oct 23 2026 09:28:00 GMT-0300 (Argentina Standard Time),Suelo,suelo,MARIA,temperatura_ambiente
-BIO-261023-1000,Fri Oct 23 2026 10:00:00 GMT-0300 (Argentina Standard Time),biologico rn,biologico,municipio,congelador
-BIO-261023-1006,Fri Oct 23 2026 10:06:00 GMT-0300 (Argentina Standard Time),biologico 2,biologico,caba,temperatura_ambiente
-MUE-261026-1549,Mon Oct 26 2026 15:49:00 GMT-0300 (Argentina Standard Time),Aceite,aceites,Empresa X,heladera_2
-AGU-261026-1550,Mon Oct 26 2026 15:50:00 GMT-0300 (Argentina Standard Time),aGUA,agua,DDDD,freezer_1
-ace-261027-1143,Tue Oct 27 2026 11:43:00 GMT-0300 (Argentina Standard Time),aceite,aceite,empresa x,freezer_1
-sed-261027-1146,Tue Oct 27 2026 11:46:00 GMT-0300 (Argentina Standard Time),sediemnto,sedimento,munucipio,armario_3
-agu-261027-1154,Tue Oct 27 2026 11:54:00 GMT-0300 (Argentina Standard Time),agua 20,agua,empresa,heladera_2
-bio-261027-1208,Tue Oct 27 2026 12:08:00 GMT-0300 (Argentina Standard Time),bioogico 21,biologico,empresa,freezer_1
-sue--261027-1447,Tue Oct 27 2026 14:47:00 GMT-0300 (Argentina Standard Time),suelo,suelo,caba,heladera_2
-bio--261027-1451,Tue Oct 27 2026 14:51:00 GMT-0300 (Argentina Standard Time),biolo,biologico,caba,heladera_2
-agu--261027-1452,Tue Oct 27 2026 14:52:00 GMT-0300 (Argentina Standard Time),agua 25,agua,municipio,freezer_1
-BIO-261029-0948,Thu Oct 29 2026 09:48:00 GMT-0300 (Argentina Standard Time),biologico 21,biologico,EMPRESA PEPITO,freezer_1
-AGU-261029-1929,Thu Oct 29 2026 19:29:00 GMT-0300 (Argentina Standard Time),agua 21,agua,caba,temp_ambiente
-SUE-261031-1117,Sat Oct 31 2026 11:17:00 GMT-0300 (Argentina Standard Time),suelo,suelo,caba,temp_ambiente
+AMB-260927-1027,2026-09-27,Suelo RN,suelo,Municipio,heladera_refrigerados
+AMB-260927-1046,2026-09-27,Agua,agua,CABA,temperatura_ambiente
+AMB-260928-1050,2026-09-28,Agua 2026,agua,Municipio,congelador
+AGU-260929-1110,2026-09-29,SUELO RN,agua,CABA,heladera_refrigerados
+AMB-260929-1124,2026-09-29,AGUA 2026,agua,UNIVERSIDAD,heladera_refrigerados
+AGU-260929-1125,2026-09-29,agua,agua,mUNIO,heladera_refrigerados
+AIR-260929-1132,2026-09-29,AIRE,aire,UNIVERSIDAD,temperatura_ambiente
+AIR-260929-1133,2026-09-29,aire,aire,caba,temperatura_ambiente
+SUE-260929-1133,2026-09-29,suelo rn,suelo,,heladera_refrigerados
+AGU-260929-1643,2026-09-29,agua,agua,municipio,congelador
+AGU-260929-1643,2026-09-29,AGUA,agua,MUNICIPIO,congelador
+SUE-261023-0928,2026-10-23,Suelo,suelo,MARIA,temperatura_ambiente
+BIO-261023-1000,2026-10-23,biologico rn,biologico,municipio,congelador
+BIO-261023-1006,2026-10-23,biologico 2,biologico,caba,temperatura_ambiente
+MUE-261026-1549,2026-10-26,Aceite,aceites,Empresa X,heladera_2
+AGU-261026-1550,2026-10-26,aGUA,agua,DDDD,freezer_1
+ace-261027-1143,2026-10-27,aceite,aceite,empresa x,freezer_1
+sed-261027-1146,2026-10-27,sediemnto,sedimento,munucipio,armario_3
+agu-261027-1154,2026-10-27,agua 20,agua,empresa,heladera_2
+bio-261027-1208,2026-10-27,bioogico 21,biologico,empresa,freezer_1
+sue--261027-1447,2026-10-27,suelo,suelo,caba,heladera_2
+bio--261027-1451,2026-10-27,biolo,biologico,caba,heladera_2
+agu--261027-1452,2026-10-27,agua 25,agua,municipio,freezer_1
+BIO-261029-0948,2026-10-29,biologico 21,biologico,EMPRESA PEPITO,freezer_1
+AGU-261029-1929,2026-10-29,agua 21,agua,caba,temp_ambiente
+SUE-261031-1117,2026-10-31,suelo,suelo,caba,temp_ambiente
+SED-261031-1451,2026-10-31,sedimento 1,sedimento,caba,freezer_1
